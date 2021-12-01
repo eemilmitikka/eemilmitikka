@@ -2,7 +2,7 @@
 
 Quantitatively oriented social scientist, doctoral researcher and enthusiastic R user. 
 
-Currently working on my PhD research dealing with political participation and autocracy in :ru: and post-Soviet countries.
+Currently working on my PhD research, which deals with how political participation relates authoritarianism in :ru:  and post-Soviet countries.
 
 Interests:
   * surveys
