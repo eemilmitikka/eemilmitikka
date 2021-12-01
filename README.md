@@ -2,7 +2,17 @@
 
 Quantitatively oriented social scientist, doctoral researcher and enthusiastic R user. 
 
-Currently working on my PhD research dealing with political participation and autocracy in :ru: and post-Soviet countries
+Currently working on my PhD research dealing with political participation and autocracy in :ru: and post-Soviet countries.
+
+Interests:
+  * surveys
+  * political science
+  * comparative politics
+  * statistics
+  * computational research methods
+  * data analysis
+  * reproducible research
+  * open data science
 
 <!--
 **eemilmitikka/eemilmitikka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
